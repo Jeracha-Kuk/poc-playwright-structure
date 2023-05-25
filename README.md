@@ -28,4 +28,4 @@ example :
 - `npx playwright codegen ${url_to_test}`
 
 ========== Tricks and tips ==========
-Add // @ts-check at the start of each test file when using JavaScript in VS Code to get automatic type checking.
+- Add // @ts-check at the start of each test file when using JavaScript in VS Code to get automatic type checking.
