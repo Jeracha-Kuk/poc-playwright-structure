@@ -1,0 +1,23 @@
+{
+  "cal_premium_online_success": {
+    "transactionId": "string",
+    "language": [
+      "string"
+    ],
+    "channel": "string",
+    "planGroupId": 0,
+    "plans": [
+      {
+        "plancode": "string",
+        "sumInsured": 0
+      }
+    ],
+    "birthDate": "string",
+    "gender": "string",
+    "occupationCode": "string",
+    "occupationRank": "string",
+    "paymentMode": "string",
+    "payerAge": "string",
+    "payerGender": "string"
+  }
+}

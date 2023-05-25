@@ -1,0 +1,17 @@
+{
+  "name": "poc-playwright-structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test --headed -i",
+    "test_retries": "npx playwright test --retries=3",
+    "test:local": "npx playwright test --config=./playwright-local.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.33.0"
+  }
+}
